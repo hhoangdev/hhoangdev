@@ -11,7 +11,7 @@
 <p align="left">
   <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br>
+  <img src="https://seeklogo.com/vector-logo/158094/java" alt="Java" /><br>
 </p>
 
 
