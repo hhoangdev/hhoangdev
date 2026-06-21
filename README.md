@@ -1,9 +1,9 @@
 # Hi there, I'm Hoang 👋
 
 ### 👨‍💻 About Me
-I'm currently a second-year student at [FPT University.](https://daihoc.fpt.edu.vn/)<br>
-Passionate about Web Development & Software Engineering.<br>
-How to reach me: Feel free to connect via the social links below!<br>
+- 🎓 **Education:** Software Engineering Sophomore at [FPT University](https://daihoc.fpt.edu.vn/)
+- 🚀 **Focus:** Java & Web Development
+- 📫 **Contact:** Connect with me via the links below!
 
 ---
 
