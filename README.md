@@ -19,7 +19,7 @@ How to reach me: Feel free to connect via the social links below!<br>
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhoangdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Hoang's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hhoangdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Hoang's GitHub Stats" height="180px" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhoangdev&layout=compact&theme=dark" alt="Top Languages" height="180px" />
 </p>
 
